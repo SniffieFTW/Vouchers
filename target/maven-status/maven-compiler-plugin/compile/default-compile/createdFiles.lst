@@ -1,0 +1,3 @@
+com\wtd\plugins\voucher\VoucherGive.class
+com\wtd\plugins\voucher\Voucher.class
+com\wtd\plugins\voucher\Events.class

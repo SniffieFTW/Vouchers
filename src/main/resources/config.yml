@@ -1,0 +1,12 @@
+# An Example has been given on how to create a voucher and set its description/ commands
+#
+#
+#
+#
+#
+Voucher:
+  name: "&bTest Voucher"
+  commands:
+    - 'gamemode creative %player%'
+    -
+    -

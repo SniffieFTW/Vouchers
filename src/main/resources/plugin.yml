@@ -1,0 +1,9 @@
+name: VoucherPlugin
+version: '${project.version}'
+main: com.wtd.plugins.voucher.Voucher
+api-version: 1.19
+authors: [ Hill ]
+description: voucher plugin
+commands:
+  voucher:
+    description: Gives you a voucher
